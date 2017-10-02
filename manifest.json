@@ -3,7 +3,7 @@
   "name": "Microbits Totem",
   "short_name": "Totem",
   "scope": "/",
-  "start_url": "http://microbits-totem.s3-website-eu-west-1.amazonaws.com/index.html",
+  "start_url": "https://d3qahyr8qxu5am.cloudfront.net/index.html",
   "orientation": "portrait",
   "display": "browser",
   "theme_color": "aliceblue",

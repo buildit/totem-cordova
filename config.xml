@@ -7,7 +7,7 @@
     <author email="shahzain.badruddin@wipro.com" href="http://buildit.wiprodigital.com">
         Apache Cordova Team
     </author>
-    <content src="http://microbits-totem.s3-website-eu-west-1.amazonaws.com/index.html" />
+    <content src="https://d3qahyr8qxu5am.cloudfront.net/index.html" />
     <access origin="*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
@@ -48,7 +48,7 @@
     </platform>
     <platform name="wp8">
     </platform>
-    <allow-navigation hap-rule="yes" href="http://microbits-totem.s3-website-eu-west-1.amazonaws.com/*" />
+    <allow-navigation hap-rule="yes" href="https://d3qahyr8qxu5am.cloudfront.net/*" />
     <engine name="android" spec="~6.2.3" />
     <engine name="ios" spec="~4.4.0" />
     <plugin name="LaunchMyApp" />
